@@ -3,6 +3,7 @@
 ## Start with  installation
     - [Install the git in your machine] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
     -  open git bash and setup the git config
+    -  git clone from github - any newly created project or create a repo in local and add the remote url of gitup repo
 ## Git basic commands 
     -  git config
     -  git init
